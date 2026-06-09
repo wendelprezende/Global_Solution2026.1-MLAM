@@ -1,9 +1,9 @@
 Global Solution – Modelagem Linear para Aprendizagem de Máquina
 
 Integrantes:
-Beatriz da Silva Araújo – RM 570619
-Daniel Pupo Martinez – RM 573075
-Wendel Pedro Rezende – RM 573126
+Beatriz da Silva Araújo – RM: 570619
+Daniel Pupo Martinez – RM: 573075
+Wendel Pedro Rezende – RM: 573126
 
 Instituição: FIAP – Faculdade de Informática e Administração Paulista
 Curso: Ciência da Computação
